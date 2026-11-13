@@ -12,11 +12,11 @@ I enjoy building practical applications, exploring artificial intelligence and s
 - 💡 Interested in Software Engineering, AI/ML and Generative AI.
 - 🌱 Currently strengthening my Python, Data Structures and Algorithms skills.
 - 🔭 Building projects using Python, Flask, JavaScript and TensorFlow.
-- 🎯 Aspiring to become a Software Engineer.
+- 🎯 Aspiring to become an AI Engineer.
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, C, Java, JavaScript
+**Languages:** Python, C, Java,C++
 
 **Web Development:** HTML, CSS, Flask
 
@@ -24,7 +24,7 @@ I enjoy building practical applications, exploring artificial intelligence and s
 
 **Database:** MySQL
 
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+**Tools:** GitHub, VS Code, Jupyter Notebook
 
 ## 📌 Featured Projects
 
